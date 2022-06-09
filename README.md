@@ -1,5 +1,5 @@
 ## Olá, me chamo Ruy Barbosa 👋
-•	📚 Estudo Sistemas de Informação na SpTech <br>
+•	📚 Estudo Sistemas de Informação na STech <br>
 •	👨‍💻 Técnico em Desenvolvimento de Sistemas (ETEC de Guaianazes - São Paulo, SP) <br>
 •	💻 Desenvolvedor Full-Stack - NodeJS | JavaScript | MySQL | PHP <br>
 •	✉ Email pessoal: ruybarbao@gmail.com
@@ -21,7 +21,7 @@
  
 <div> 
   <a href="https://instagram.com/ysd.ruyy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:klovizoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kau%C3%AA-loviz-18b6931b4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:ruybarbao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ruy-barbosa-231aa1239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
