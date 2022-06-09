@@ -8,14 +8,14 @@
 •	✉ Email pessoal: ruybarbao@gmail.com
 
 
-
-<div>
+<div style="display: flex;">
+<div style="width: 40%;">
   <a href="https://github.com/RuyBarbosa22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuyBarbosa22&show_icons=true&theme=monokai&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuyBarbosa22&layout=compact&langs_count=7&theme=dracula">
 </div> 
   
-<div> 
+<div style="width: 60%;"> 
    <img align="center" alt="Ruy-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Ruy-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Ruy-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
