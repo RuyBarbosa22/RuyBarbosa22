@@ -4,6 +4,8 @@
 •	💻 Desenvolvedor Full-Stack - NodeJS | JavaScript | MySQL | PHP <br>
 •	✉ Email pessoal: ruybarbao@gmail.com
 
+
+<div style="display: flex; flex-direction: row;">
 <div align="center">
   <a href="https://github.com/RuyBarbosa22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuyBarbosa22&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
