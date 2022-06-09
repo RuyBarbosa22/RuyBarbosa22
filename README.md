@@ -1,9 +1,8 @@
 ## Olá, me chamo Ruy Barbosa 👋
-
-📚 Estudo Sistemas de Informação na faculdade Sptech <br>
-👨‍💻 Técnico em Desenvolvimento de Sistemas (ETEC de Guaianazes - São Paulo, SP) <br>
-💻 Desenvolvedor Full-Stack - NodeJS | JavaScript | MySQL | PHP <br>
-✉ Email pessoal: ruybarbao@gmail.com
+•	📚 Estudo Sistemas de Informação na SpTech <br>
+•	👨‍💻 Técnico em Desenvolvimento de Sistemas (ETEC de Guaianazes - São Paulo, SP) <br>
+•	💻 Desenvolvedor Full-Stack - NodeJS | JavaScript | MySQL | PHP <br>
+•	✉ Email pessoal: ruybarbao@gmail.com
 
 <div align="center">
   <a href="https://github.com/RuyBarbosa22">
