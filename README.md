@@ -1,4 +1,4 @@
-## Olá, me chamo Kauê Loviz, sou Técnico em Desenvolvimento de Sistemas 👋
+## Olá, me chamo Ruy Barbosa 👋
 
 • 📅 19/05/2004 - 18 Anos
 
