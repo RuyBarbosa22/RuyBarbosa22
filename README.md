@@ -6,7 +6,7 @@
 
 • 📧 Email pesssoal: ruybarbao@gmail.com
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; width:100%;">
 <div align="center">
   <a href="https://github.com/ruybarbosa22">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=ruybarbosa22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
