@@ -1,12 +1,12 @@
 ## Olá, me chamo Ruy Barbosa 👋
 
-• 📅 19/05/2004 - 18 Anos
+• 📅 17/1/2003 - 18 Anos
 
 • 💻 Técnico em Desenvolvimento de Sistemas (ETEC de Guaianazes - São Paulo, SP)
 
-• 📚 Analise e Desenvolvimento de Sistemas - Universidade Cruzeiro do Sul (UNICSUL)
+• 📚 Cursando Sistemas de informação na SPTech
 
-• 📧 klovizoliveira@gmail.com
+• 📧 Email pesssoal: ruybarbao@gmail.com
 
 
 <div align="center">
