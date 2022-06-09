@@ -1,4 +1,4 @@
-## Olá, me chamo Kauê Loviz, sou Técnico em Desenvolvimento de Sistemas 👋
+## Olá, me chamo Ruy Barbosa, sou Técnico em Desenvolvimento de Sistemas e estou cursando Sistemas de informação na SPTech 🤯
 <div align="center">
   <a href="https://github.com/RuyBarbosa22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuyBarbosa22&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
