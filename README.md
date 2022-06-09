@@ -14,7 +14,7 @@
   <img align="center" alt="Ruy-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ruy-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ruy-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ruy-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysqlserver/mysqlserver-original.svg">
+  <img align="center" alt="Ruy-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql-server/mysql-server-original.svg">
   </div>
 </div>
 
