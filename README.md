@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/ruybarbosa22">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=ruybarbosa22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ruybarbosa22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruybarbosa22&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
