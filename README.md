@@ -1,3 +1,5 @@
+## Olá, me chamo Ruy 👋
+
 • 📅 17/11/2003 - 18 Anos
 
 • 💻 Técnico em Desenvolvimento de Sistemas (ETEC de Guaianazes - São Paulo, SP)
@@ -5,8 +7,6 @@
 • 📚 Sistemas de informação - São Paulo Tech School (SPTECH | SIS)
 
 • 📧 ruybarbao@gmail.com
-
-## Olá, eu sou o Ruy 👋
 
 <div align="center">
   <a href="https://github.com/RuyBarbosa22">
