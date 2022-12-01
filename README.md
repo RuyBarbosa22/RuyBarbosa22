@@ -1,4 +1,4 @@
-## Ola, me chamo Ruy 👋n
+## Ola, me chamo Ruy 👋
 
 • 📅 17/11/2003 - 18 Anos
 
