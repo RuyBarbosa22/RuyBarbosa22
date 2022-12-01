@@ -1,8 +1,8 @@
-## Hola, me llamo Ruy Diaz 👋
+## Ola, me chamo Ruy 👋n
 
-• 📅 17/11/2003 - 18 Años
+• 📅 17/11/2003 - 18 Anos
 
-• 💻 Técnico en Desenvolvimento dell Sistemasitos (ETEC de Guaianazes - São Paulo, SP)
+• 💻 Técnico en Desenvolvimento de Sistemas (ETEC de Guaianazes - São Paulo, SP)
 
 • 📚 Sistemas de informação - São Paulo Tech School (SPTECH | SIS)
 
