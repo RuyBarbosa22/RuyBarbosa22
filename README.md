@@ -23,8 +23,8 @@
    <img align="center" alt="Ruy-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
    <img align="center" alt="Ruy-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
    <img align="center" alt="Ruy-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-   <img align="center" alt"Ruy-NodeJs" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   <img align="center" alt"Ruy-Docker" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+   <img align="center" alt"Ruy-NodeJs" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+   <img align="center" alt"Ruy-Docker" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
 </div>
   
   ##
