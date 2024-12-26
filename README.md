@@ -1,7 +1,5 @@
 ## Ola, me chamo Ruy 👋
 
-• 📅 17/11/2003 - 20 Anos
-
 • 💻 Técnico en Desenvolvimento de Sistemas (ETEC de Guaianazes - São Paulo, SP)
 
 • 📚 Sistemas de informação - São Paulo Tech School (SPTECH | SIS)
